@@ -1,0 +1,6 @@
+{
+  "kioskVersionCode": 3,
+  "kioskApkUrl": "https://github.com/<you>/transit-kiosk/releases/download/v1.0.2/TransitKiosk.apk",
+  "conductorVersionCode": 76,
+  "conductorApkUrl": "https://github.com/<you>/transit-kiosk/releases/download/v1.0.2/conductor-1.76.apk"
+}
