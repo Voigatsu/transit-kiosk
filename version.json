@@ -4,7 +4,7 @@
   "kioskApkUrl": "https://github.com/Voigatsu/transit-kiosk/releases/download/v1.0.3/TransitKiosk.apk",
   "conductorVersionCode": 76,
   "conductorApkUrls": [
-    https://github.com/Voigatsu/transit-kiosk/releases/download/v1.0.3/conductor-1.76.apk
+    "https://github.com/Voigatsu/transit-kiosk/releases/download/v1.0.3/conductor-1.76.apk",
     "https://github.com/Voigatsu/transit-kiosk/releases/download/v1.0.3/conductor-1.76-en.apk",
     "https://github.com/Voigatsu/transit-kiosk/releases/download/v1.0.3/conductor-1.76-hdpi.apk"
   ]
