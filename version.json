@@ -1,7 +1,7 @@
 {
-  "kioskVersionCode": 4,
-  "kioskVersionName": "1.0.3",
-  "kioskApkUrl": "https://github.com/Voigatsu/transit-kiosk/releases/download/v1.0.3/TransitKiosk.apk",
+  "kioskVersionCode": 5,
+  "kioskVersionName": "1.0.4",
+  "kioskApkUrl": "https://github.com/Voigatsu/transit-kiosk/releases/download/v1.0.4/TransitKiosk.apk",
   "conductorVersionCode": 76,
   "conductorApkUrls": [
     "https://github.com/Voigatsu/transit-kiosk/releases/download/v1.0.3/conductor-1.76.apk",
